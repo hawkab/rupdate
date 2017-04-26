@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rupdate", "rupdate\rupdate.csproj", "{8686461B-BB27-4A49-90B0-5372D0B14995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "Auth\Auth.csproj", "{22D20886-9265-499D-A0DB-794DA35269BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queryToMySQL", "queryToMySQL\queryToMySQL.csproj", "{114473A1-3FCB-4D3E-816C-DAB9B3A594F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8686461B-BB27-4A49-90B0-5372D0B14995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8686461B-BB27-4A49-90B0-5372D0B14995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8686461B-BB27-4A49-90B0-5372D0B14995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8686461B-BB27-4A49-90B0-5372D0B14995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D20886-9265-499D-A0DB-794DA35269BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D20886-9265-499D-A0DB-794DA35269BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D20886-9265-499D-A0DB-794DA35269BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D20886-9265-499D-A0DB-794DA35269BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114473A1-3FCB-4D3E-816C-DAB9B3A594F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114473A1-3FCB-4D3E-816C-DAB9B3A594F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114473A1-3FCB-4D3E-816C-DAB9B3A594F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114473A1-3FCB-4D3E-816C-DAB9B3A594F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

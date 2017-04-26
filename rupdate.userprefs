@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="rupdate/rupdate.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Auth/hh.cs">
+    <Files>
+      <File FileName="rupdate/Program.cs" Line="13" Column="18" />
+      <File FileName="Auth/hh.cs" Line="25" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

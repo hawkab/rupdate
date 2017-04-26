@@ -1,0 +1,22 @@
+C:\Users\Hans Wakaba\Desktop\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\queryToMySQL\bin\Debug\queryToMySQL.pdb
+C:\Users\Hans Wakaba\Desktop\rupdate\queryToMySQL\bin\Debug\MySql.Data.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\queryToMySQL\obj\Debug\queryToMySQL.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\queryToMySQL\obj\Debug\queryToMySQL.pdb
+C:\Users\Hans Wakaba\Desktop\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll.config
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll.config
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\bin\Debug\queryToMySQL.pdb
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\obj\Debug\queryToMySQL.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\obj\Debug\queryToMySQL.pdb
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\obj\Debug\queryToMySQL.csprojResolveAssemblyReference.cache
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll.config
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\bin\Debug\queryToMySQL.pdb
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\obj\Debug\queryToMySQL.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\queryToMySQL\obj\Debug\queryToMySQL.pdb
+C:\Users\olshgi\Downloads\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll.config
+C:\Users\olshgi\Downloads\rupdate\queryToMySQL\bin\Debug\queryToMySQL.dll
+C:\Users\olshgi\Downloads\rupdate\queryToMySQL\bin\Debug\queryToMySQL.pdb
+C:\Users\olshgi\Downloads\rupdate\queryToMySQL\obj\Debug\queryToMySQL.dll
+C:\Users\olshgi\Downloads\rupdate\queryToMySQL\obj\Debug\queryToMySQL.pdb

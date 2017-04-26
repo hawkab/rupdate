@@ -1,0 +1,58 @@
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\Auth.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\Auth.pdb
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\xNet.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\obj\Debug\Auth.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\obj\Debug\Auth.pdb
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\xNet.xml
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\queryToMySQL.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\MySql.Data.dll
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\bin\Debug\queryToMySQL.pdb
+C:\Users\Hans Wakaba\Desktop\rupdate\Auth\obj\Debug\Auth.csprojResolveAssemblyReference.cache
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Auth.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Auth.pdb
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\queryToMySQL.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\xNet.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\queryToMySQL.pdb
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\xNet.xml
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\de-DE\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\obj\Debug\Auth.csprojResolveAssemblyReference.cache
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\obj\Debug\Auth.dll
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\obj\Debug\Auth.pdb
+C:\Users\g.oljshanskij\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\MySql.Data.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Auth.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Auth.pdb
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\queryToMySQL.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\xNet.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\MySql.Data.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\queryToMySQL.pdb
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\xNet.xml
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\de-DE\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\obj\Debug\Auth.csprojResolveAssemblyReference.cache
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\obj\Debug\Auth.dll
+C:\Users\olshgi\Documents\Visual Studio 2013\Projects\rupdate\Auth\obj\Debug\Auth.pdb
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\Auth.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\Auth.pdb
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\queryToMySQL.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\xNet.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\MySql.Data.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\queryToMySQL.pdb
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\xNet.xml
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\de-DE\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\obj\Debug\Auth.csprojResolveAssemblyReference.cache
+C:\Users\olshgi\Downloads\rupdate\Auth\obj\Debug\Auth.dll
+C:\Users\olshgi\Downloads\rupdate\Auth\obj\Debug\Auth.pdb
